@@ -1,5 +1,5 @@
-Krótki opis:
-Projekt to prosta gra konsolowa napisana w języku C#. Zadaniem użytkownika jest odgadnięcie ukrytej liczby wylosowanej przez komputer. 
+
+Projekt to  gra konsolowa napisana w języku C#. Zadaniem użytkownika jest odgadnięcie ukrytej liczby wylosowanej przez komputer. 
 
 Lista funkcji:
 - Dwa tryby gry (klasyczny oraz tryb, w którym liczba zmienia się po kilku próbach).
